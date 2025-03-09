@@ -1,5 +1,0 @@
-Create a local database named 'ComicBooksDb' in your local mongoDb database. 
-
-User account: name-> john | password-> 12345 (user side access)
-Admin account: name-> admin | password-> 12345 (admin side access)
-Developer account: name-> dev | password-> 12345 (both sides access)
