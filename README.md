@@ -37,4 +37,4 @@ Then, you're all set!
 
 This is my first ever coding project so, half of the time I didn't even know what I was doing. This is also my first time using TailwindCSS and I kinda like it. In summary, the backend code's crap, frontend code's crap, optimization is crap, the design is crap and the UI is even more crappy. But hey, it works!
 
-P.S: If you're a window user, sorry about the '/' instead of \ for the file directories. (I'm not on mac. I'm just a broke linux user.)
+P.S: If you're a window user, sorry about the '/' for the file directories. (I'm not on mac. I'm just a broke linux user.)
